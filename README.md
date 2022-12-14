@@ -11,7 +11,7 @@ My solution to this was to do the following heat bed upgrade using a Keenovo cus
 
 The following files where used for manufacture and order of heatbed and heat pad.
 
-* cr6-max-heatbed.stl Provides a 3D model of the factory heatbed that can be laser cut from aluminum sheet (4mm) by [pcbway.com](https://www.pcbway.com/rapid-prototyping/CNC-machining/CNC-Laser-Cutting-Services.html).   You could also get this cut by a similar service in your country.
+* [cr6-max-heatbed.stl](cr6-max-heatbed.stl) Provides a 3D model of the factory heatbed that can be laser cut from aluminum sheet (4mm) by [pcbway.com](https://www.pcbway.com/rapid-prototyping/CNC-machining/CNC-Laser-Cutting-Services.html).   You could also get this cut by a similar service in your country.
 
-* cr6max-heatbed-r.pdf Provides technical drawings for a custom heat pad manufactured by [Keenovo](https://www.keenovo.com/).  Contact them by email at sales@keenovo.com and ask for a quote for a custom heat pad.   Note that in my technical drawings it specifies 220volts where you may need 110volts depending on your location.
+* [cr6max-heatbed-r.pdf](cr6max-heatbed-r.pdf) Provides technical drawings for a custom heat pad manufactured by [Keenovo](https://www.keenovo.com/).  Contact them by email at sales@keenovo.com and ask for a quote for a custom heat pad.   Note that in my technical drawings it specifies 220volts where you may need 110volts depending on your location.
 
