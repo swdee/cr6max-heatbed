@@ -15,3 +15,8 @@ The following files where used for manufacture and order of heatbed and heat pad
 
 * [cr6max-heatbed-r.pdf](cr6max-heatbed-r.pdf) Provides technical drawings for a custom heat pad manufactured by [Keenovo](https://www.keenovo.com/).  Contact them by email at sales@keenovo.com and ask for a quote for a custom heat pad.   Note that in my technical drawings it specifies 220volts where you may need 110volts depending on your location.
 
+
+## Resources
+
+* [Teaching Tech Upgrade Guide](https://youtu.be/1VyFejiKkSQ) - Video going through the process of how to upgrade your 3D printer bed using a Keenovo heat pad.
+* []() - My wiring schematic for the CR6 Max.
