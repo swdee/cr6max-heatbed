@@ -29,6 +29,6 @@ The following files where used for manufacture and order of heatbed and heat pad
 
 ## Photos
 
-
+* [photos/heatpad-and-bed.jpg]
 
 
