@@ -32,6 +32,7 @@ The following files where used for manufacture and order of heatbed and heat pad
 * [Teaching Tech Upgrade Guide](https://youtu.be/1VyFejiKkSQ) - Video going through the process of how to upgrade your 3D printer bed using a Keenovo heat pad.
 * [My wiring Schematic](cr6max-heatbed-schematic.jpg) - Drawing of my wiring schematic.
 * [Compiling Firmware](https://damsteen.nl/blog/2021/01/08/how-to-compile-cr6community-marlin-with-vscode-platformio) - Printer uses the Community Firmware, I used these instructions to compile the Firmware.
+* [Creality Video on changing the heat bed](https://youtu.be/YCIotQ8dETk)
 
 
 ## Photos
