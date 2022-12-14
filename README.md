@@ -2,7 +2,7 @@
 
 ## Disclaimer/Warning
 
-Performing this heat bed upgrade should be done at your own risk as your dealing with Mains voltage which can kill.
+Performing this heat bed upgrade should be done at your own risk as your dealing with Mains voltage which can kill.  This is not a complete set of instructions and would require competent knowledge to fill in the gaps, but rather serves as a purpose of providing files and links to source materials used in achieving this upgrade. 
 
 
 ## Problem
@@ -10,6 +10,12 @@ Performing this heat bed upgrade should be done at your own risk as your dealing
 I upgraded my CR6 Max extruder to the Microswiss dual drive and hotend to enable higher temperatures for printing PETG.    This exposed the weakness of the CR6 Max heat bed being under powered at 420 watts and struggles to reach higher temperatures needed for printing PETG (80 degrees) or in my case ColorFabb HT which needs 110-120 degrees.   Whilst I could print PETG at 80 degrees it takes the printer 10+ minutes to heat up and over 20 minutes (and sometimes timing out in the firmware) when trying to reach 100 degrees.
 
 My solution to this was to do the following heat bed upgrade using a Keenovo custom made silicone heater.    Originally my goal was to keep the same heat bed configuration allowing it to support both the factory glass top and a 4mm aluminum top with PEI sheet attach.  If I were to make a version 2 of this project I would instead have a 6mm aluminum bed machined and directly attach PEI sheet to be similar to the setup in a RatRig and not support the glass top.  This would however require a custom PEI sheet made to size which can be ordered from [ENERGTIC](https://energetic3d.aliexpress.com/store/4542004?spm=a2g0o.productlist.0.0.5e684144QTHPky).  I would make use of features in a Prusa Mk3 with by allowing location pins used for centering the PEI sheet when placing it on the heat bed.
+
+
+
+## Results
+
+Having completed the upgrade the heat bed is only configured in the firmware to run at 80% capacity and it now heats up as fast as the extruder and reaches 110 degrees in under 2 minutes.
 
 
 ## Files
@@ -25,6 +31,7 @@ The following files where used for manufacture and order of heatbed and heat pad
 
 * [Teaching Tech Upgrade Guide](https://youtu.be/1VyFejiKkSQ) - Video going through the process of how to upgrade your 3D printer bed using a Keenovo heat pad.
 * [My wiring Schematic](cr6max-heatbed-schematic.jpg) - Drawing of my wiring schematic.
+* [Compiling Firmware](https://damsteen.nl/blog/2021/01/08/how-to-compile-cr6community-marlin-with-vscode-platformio) - Printer uses the Community Firmware, I used these instructions to compile the Firmware.
 
 
 ## Photos
@@ -32,3 +39,6 @@ The following files where used for manufacture and order of heatbed and heat pad
 ![Heat pad and bed](photos/heatpad-and-bed.jpg)
 
 ![Internal Wiring](photos/internal-wiring.jpg)
+
+
+
