@@ -31,4 +31,4 @@ The following files where used for manufacture and order of heatbed and heat pad
 
 ![Heat pad and bed](photos/heatpad-and-bed.jpg)
 
-
+![Internal Wiring](photos/internal-wiring.jpg)
