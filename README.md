@@ -1,5 +1,10 @@
 # Creality CR6Max Heat Bed Upgrade
 
+## Disclaimer/Warning
+
+Performing this heat bed upgrade should be done at your own risk as your dealing with Mains voltage which can kill.
+
+
 ## Problem
 
 I upgraded my CR6 Max extruder to the Microswiss dual drive and hotend to enable higher temperatures for printing PETG.    This exposed the weakness of the CR6 Max heat bed being under powered at 420 watts and struggles to reach higher temperatures needed for printing PETG (80 degrees) or in my case ColorFabb HT which needs 110-120 degrees.   Whilst I could print PETG at 80 degrees it takes the printer 10+ minutes to heat up and over 20 minutes (and sometimes timing out in the firmware) when trying to reach 100 degrees.
@@ -19,4 +24,11 @@ The following files where used for manufacture and order of heatbed and heat pad
 ## Resources
 
 * [Teaching Tech Upgrade Guide](https://youtu.be/1VyFejiKkSQ) - Video going through the process of how to upgrade your 3D printer bed using a Keenovo heat pad.
-* []() - My wiring schematic for the CR6 Max.
+* [My wiring Schematic](cr6max-heatbed-schematic.jpg) - Drawing of my wiring schematic.
+
+
+## Photos
+
+
+
+
